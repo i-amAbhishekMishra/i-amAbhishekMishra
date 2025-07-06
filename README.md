@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/malphasabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malphasabhishek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/i-amabhishekmishra target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-am`abhishekmishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/i-amabhishekmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-am`abhishekmishra" height="30" width="40" /></a>
 <a href="https://instagram.com/the.malphas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.malphas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the malphas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the malphas" height="30" width="40" /></a>
 </p>
